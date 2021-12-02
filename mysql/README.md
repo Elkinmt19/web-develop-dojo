@@ -1,0 +1,1 @@
+# How to setup the MySQL environment to work 
