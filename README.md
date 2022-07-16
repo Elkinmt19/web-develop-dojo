@@ -4,9 +4,9 @@ This is a repository to learn and get more skills on web development, here are g
 
 <p align="center">
  <img src="./assets/imgs/developer_1.gif"
-      width="50%"/>
+      width="45%"/>
  <img src="./assets/imgs/developer_2.gif"
-      width="50%"/>
+      width="45%"/>
 </p>
 
 ## SOFTWARE DEPENDENCIES :computer:
